@@ -1,4 +1,4 @@
-# -AI-Powered-Travel-Booking-Agent-Agentic-AI
+# AI-Powered-Travel-Booking-Agent-Agentic-AI
 -------------------------------------------------------------------------
 ## Project Overview
 -------------------------------------------------------------------------
